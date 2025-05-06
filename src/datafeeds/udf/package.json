@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "homepage": "https://sol-decoder2025.github.io/decoder-alpha"
+    "private": true,
   "dependencies": {
     "tslib": "2.3.0"
   },
@@ -13,5 +14,12 @@
     "compile": "tsc",
     "bundle-js": "rollup -c rollup.config.js",
     "build": "npm run compile && npm run bundle-js"
+      "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "start": "react-scripts start",
+  "build": "react-scripts build"
+}
+
   }
 }
