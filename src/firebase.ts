@@ -39,7 +39,7 @@ onMessage(messaging, (payload) => {
     new Notification(title as string, {
         body,
         icon: '/assets/site-logos/logo-transparent.png',
-        image: '/assets/site-logos/logo-transparent.png',
+        badge: '/assets/site-logos/logo-transparent.png',
     });
 });
 }

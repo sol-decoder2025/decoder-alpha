@@ -19,6 +19,8 @@ declare module '*.bmp' {
   export default src;
 }
 
+declare module 'lodash'
+
 declare module '*.gif' {
   const src: string;
   export default src;

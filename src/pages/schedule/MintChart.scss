@@ -1,50 +1,50 @@
 .chart-width {
     
-    @media screen and(max-width:425px) {
+    @media screen and (max-width: 425px) {
         width: 360px;    
         padding-left: 0 !important;
     }
-    @media screen and(max-width:414px) {
+    @media screen and (max-width: 414px) {
         width: 400px;    
         padding-left: 0 !important;
     }
-    @media screen and(max-width:393px) {
+    @media screen and (max-width: 393px) {
         width: 375px; 
         padding-left: 0 !important;   
     }
-    @media screen and(max-width:375px) {
+    @media screen and (max-width: 375px) {
         width: 350px; 
         padding-left: 0 !important;   
     }
-    @media screen and(max-width:360px) {
+    @media screen and (max-width: 360px) {
         width: 350px; 
         padding-left: 0 !important;   
     }
-    @media screen and(max-width:320px) {
+    @media screen and (max-width: 320px) {
         width: 280px;    
         padding-left: 0 !important;
     }
 }
 .calendarCharts {
-    @media screen and(max-width:768px) { 
+    @media screen and (max-width: 768px) { 
         padding-left: 0 !important;
     }
-    @media screen and(max-width:425px) { 
+    @media screen and (max-width: 425px) { 
         padding-left: 0 !important;
     }
-    @media screen and(max-width:360px) {
+    @media screen and (max-width: 360px) {
         padding-left: 0 !important;
     }
-    @media screen and(max-width:320px) {
+    @media screen and (max-width: 320px) {
         padding-left: 0 !important;
     }
 }
 
 .MuiTableCell-paddingNone:last-child {
-    @media screen and(max-width:425px) {
+    @media screen and (max-width: 425px) {
         padding: 0 !important;
     }
-    @media screen and(max-width:1000px) {
+    @media screen and (max-width: 1000px) {
         padding: 0 !important;
     }
 }

@@ -81,6 +81,7 @@ function Sidebar() {
                 )}
 
                 {/*<NavLink title="Home" icon={homeOutline} to="/" />*/}
+                {/* @ts-ignore */}
                 <div onClick={()=> dispatch(isEditWhitelist(false))}>
                     <NavLink
                         title="Seamless"
