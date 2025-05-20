@@ -60,6 +60,7 @@
     "@types/react-dom": "^16.9.10",
     "@types/react-router": "^5.1.11",
     "@types/react-router-dom": "^5.1.7",
+    "ajv": "^8.17.1",
     "axios": "^0.24.0",
     "babel-jest": "^27.4.2",
     "babel-loader": "^8.2.3",

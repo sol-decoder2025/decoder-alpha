@@ -3,7 +3,7 @@
 
 ### To develop
 1. cd into the folder
-2. Run `npm install` at the root of your directory
+2. Run `npm install --legacy-peer-deps` at the root of your directory
 3. Run `npm run start` to start the project
 4. Start coding!
 
